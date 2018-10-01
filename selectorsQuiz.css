@@ -1,0 +1,27 @@
+.select-me {
+    /* Solves #1 */
+}
+
+div.select-me {
+    /* Solves #2 */
+}
+
+div.highlight {
+    /* Solves #3 */
+}
+
+.select-me.highlight {
+    /* Solves #4 */
+}
+
+#special-list li {
+    /* Solves #5 */
+}
+
+#special-list li.select-me {
+    /* Solves #6 */
+}
+
+#special-list .highlight .select-me {
+    /* Solves #7 */
+}

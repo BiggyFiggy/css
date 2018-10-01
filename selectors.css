@@ -1,0 +1,29 @@
+h1 {
+    color: red;
+    /* background-color: yellow; */
+}
+
+p {
+    color: blue;
+}
+
+.select-me {
+    background-color: orange;
+    font-family: cursive;
+}
+
+p.select-me {
+    font-family: fantasy;
+}
+
+.another-class {
+    font-weight: bold;
+}
+
+#special-div {
+    border: 4px solid purple;
+}
+
+p .a-span, #the-last-div {
+    border: 2px dashed black;
+}
