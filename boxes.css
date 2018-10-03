@@ -1,0 +1,31 @@
+p {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  border: 5px solid black;
+  margin: 20px;
+}
+
+.inner-box {
+  border: 2px solid gray;
+  padding: 0 10px 20px 30px;
+  margin: 20px 50px;
+}
+
+#special-p {
+  margin-left: 50px;
+  padding-top: 50px;
+  border-top: 3px dashed green;
+  /* border-color: red; */
+}
+
+.outer-box {
+  width: 400px;
+  height: 300px;
+  border: 2px solid black;
+  margin: 10px;
+}
+
+.display-type-set {
+  border: 1px solid gray;
+}
