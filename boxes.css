@@ -28,4 +28,10 @@ p {
 
 .display-type-set {
   border: 1px solid gray;
+  /* display: inline; */
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+  padding: 20px;
+  margin: 20px;
 }
