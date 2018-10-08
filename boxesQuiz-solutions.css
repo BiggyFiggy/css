@@ -1,0 +1,13 @@
+.box {
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 128px;
+  background-color: #0f7cc2;
+
+  display: inline-block;
+  height: 256px;
+  width: 256px;
+  margin: 20px;
+  padding: 20px;
+  border: 5px solid #000;
+}

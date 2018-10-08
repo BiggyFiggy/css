@@ -1,0 +1,12 @@
+.box {
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 128px;
+  background-color: #0f7cc2;
+
+  /*
+   * Open boxesQuiz.html in your browser without looking at the code in
+   * boxesQuiz-solutions.css.  What additional CSS would you add here to
+   * make the boxes look the way they do when using boxesQuiz-solutions.css?
+   */
+}
