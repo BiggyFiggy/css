@@ -1,0 +1,16 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 200;
+  font-size: 48px;
+}
+
+.advanced-box {
+  display: inline-block;
+  background-color: #7a36bf;
+  color: #fff;
+  width: 200px;
+  height: 200px;
+  margin: 25px;
+  padding: 10px;
+  border: 2px solid black;
+}
