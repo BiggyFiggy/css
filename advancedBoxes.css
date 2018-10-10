@@ -13,4 +13,14 @@ body {
   margin: 25px;
   padding: 10px;
   border: 2px solid black;
+
+  border-radius: 20px;
+
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+
+  cursor: pointer;
+}
+
+.right {
+  float: right;
 }

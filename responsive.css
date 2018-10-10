@@ -33,3 +33,26 @@ a, a:hover {
 .right {
   float: right;
 }
+
+
+@media(max-width: 800px) {
+  .navbar {
+    background-color: green;
+    font-size: 42px;
+  }
+}
+
+@media(max-width: 600px) {
+  .navbar {
+    background-color: red;
+    font-size: 48px;
+  }
+
+  .right {
+    float: none;
+  }
+
+  .navitem {
+    display: block;
+  }
+}
